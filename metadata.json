@@ -1,0 +1,6 @@
+{
+  "name": "Artisan AI",
+  "description": "From Craft to Commerce, Powered by AI. An empowering digital platform for artisans with AI-driven cataloging, smart pricing, storytelling, and marketplace commerce.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
